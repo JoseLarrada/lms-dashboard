@@ -1,0 +1,37 @@
+[
+  {
+    "cursoId": 101,
+    "preguntas": [
+      {
+        "id": 1,
+        "texto": "¿Qué regula el Código Penal?",
+        "opciones": [
+          "Delitos y sanciones",
+          "Derechos laborales",
+          "Impuestos"
+        ],
+        "respuestaCorrecta": "Delitos y sanciones"
+      },
+      {
+        "id": 2,
+        "texto": "¿Qué es el debido proceso?",
+        "opciones": [
+          "Una sanción",
+          "Un derecho",
+          "Un castigo"
+        ],
+        "respuestaCorrecta": "Un derecho"
+      },
+      {
+        "id": 3,
+        "texto": "¿Quién aplica la sanción?",
+        "opciones": [
+          "Juez",
+          "Fiscal",
+          "Comisario"
+        ],
+        "respuestaCorrecta": "Juez"
+      }
+    ]
+  }
+]

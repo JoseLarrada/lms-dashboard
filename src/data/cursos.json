@@ -1,0 +1,42 @@
+[
+  {
+    "id": 101,
+    "titulo": "Derecho Policial",
+    "descripcion": "Fundamentos legales del ejercicio policial.",
+    "video": "https://www.youtube.com/watch?v=abc123",
+    "contenido": [
+      {
+        "titulo": "Unidad 1: Introducción",
+        "descripcion": "Se abordan los principios básicos del curso.",
+        "recursos": [
+          "Video introductorio",
+          "Lectura PDF: Historia legal",
+          "Infografía: Rol del policía"
+        ]
+      },
+      {
+        "titulo": "Unidad 2: Código Penal",
+        "descripcion": "Estudio de los artículos más relevantes.",
+        "recursos": [
+          "Artículo 1-15 comentado",
+          "Casos prácticos",
+          "Podcast: Aplicación en campo"
+        ]
+      },
+      {
+        "titulo": "Unidad 3: Jurisprudencia",
+        "descripcion": "Análisis de sentencias clave.",
+        "recursos": [
+          "Resumen de jurisprudencia",
+          "Taller de análisis",
+          "Video: Casos reales"
+        ]
+      }
+    ],
+    "actividades": [
+      "Foro: Discusión sobre jurisprudencia",
+      "Trabajo: Análisis de caso",
+      "Evaluación final"
+    ]
+  }
+]
