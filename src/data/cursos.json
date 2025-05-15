@@ -34,9 +34,38 @@
       }
     ],
     "actividades": [
-      "Foro: Discusión sobre jurisprudencia",
-      "Trabajo: Análisis de caso",
-      "Evaluación final"
+      {
+        "id": "act1",
+        "titulo": "Foro: Discusión sobre jurisprudencia",
+        "descripcion": "Participa en el foro y comenta sobre las sentencias estudiadas en clase.",
+        "fechaLimite": "2025-05-18",
+        "recursos": [
+          "Resumen de jurisprudencia",
+          "Taller de análisis"
+        ],
+        "entregada": false
+      },
+      {
+        "id": "act2",
+        "titulo": "Trabajo: Análisis de caso",
+        "descripcion": "Entrega un análisis detallado de un caso real relacionado con el código penal.",
+        "fechaLimite": "2025-05-22",
+        "recursos": [
+          "Artículo 1-15 comentado",
+          "Podcast: Aplicación en campo"
+        ],
+        "entregada": false
+      },
+      {
+        "id": "act3",
+        "titulo": "Evaluación final",
+        "descripcion": "Evaluación general del curso con preguntas de opción múltiple.",
+        "fechaLimite": "2025-05-28",
+        "recursos": [
+          "Todo el contenido del curso"
+        ],
+        "entregada": false
+      }
     ]
   }
 ]
