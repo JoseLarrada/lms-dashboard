@@ -12,5 +12,19 @@
     "usuario": "ana",
     "password": "admin123",
     "rol": "admin"
+  },
+  {
+    "id": 3,
+    "nombre": "Pedro Pérez",
+    "usuario": "Pedro",
+    "password": "1234",
+    "rol": "estudiante"
+  },
+  {
+    "id": 4,
+    "nombre": "Maria Pérez",
+    "usuario": "Maria",
+    "password": "1234",
+    "rol": "estudiante"
   }
 ]
